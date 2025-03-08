@@ -31,4 +31,14 @@
     "editor.formatOnSave": false,
     "editor.formatOnType": false
   },
+
+  //
+  // Rust
+  //
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+  }
 }
