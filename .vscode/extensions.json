@@ -1,18 +1,6 @@
 {
   "recommendations": [
     //
-    // JSON
-    //
-    // https://marketplace.visualstudio.com/items?itemName=remcohaszing.schemastore
-    "remcohaszing.schemastore",
-
-    //
-    // YAML
-    //
-    // https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
-    "redhat.vscode-yaml",
-
-    //
     // Git & GitHub
     //
     // https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
@@ -23,12 +11,24 @@
     "GitHub.vscode-github-actions",
 
     //
-    // Rust
+    // JSON
     //
-    // https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
-    "rust-lang.rust-analyzer",
-    // https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
-    "vadimcn.vscode-lldb",
+    // https://marketplace.visualstudio.com/items?itemName=remcohaszing.schemastore
+    "remcohaszing.schemastore",
+
+    //
+    // Mermaid
+    //
+    // https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid
+    "bierner.markdown-mermaid",
+    // https://marketplace.visualstudio.com/items?itemName=bpruitt-goddard.mermaid-markdown-syntax-highlighting
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+
+    //
+    // YAML
+    //
+    // https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+    "redhat.vscode-yaml",
 
     //
     // Others
@@ -38,6 +38,14 @@
     // https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck
     "timonwong.shellcheck",
     // https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+
+    //
+    // Rust
+    //
+    // https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
+    "rust-lang.rust-analyzer",
+    // https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
+    "vadimcn.vscode-lldb",
   ]
 }
